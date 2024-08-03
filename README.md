@@ -2,7 +2,7 @@
 
 Description:
 This project provides a set of automated web UI tests using Selenium WebDriver with Java for Rahul Shetty Academy practice web page.
-These tests aim to ensure the functionality and behavior of the website. 
+These tests aim to ensure the functionality and behavior of the website using locaters to navigate and test the elements.
 
 Features:
 * Tests cover key functionalities of the website, including the webelements, dropdowns, buttons, menubar, menubar options, checkbox, etc.
@@ -34,11 +34,7 @@ Installation:
             </dependency>           
 
 Project Structure:
-
 Selenium -> src -> Introduction
-
-License:
-This project is licensed under the shrutika license.
 
 Author:
 shrutika shinde
