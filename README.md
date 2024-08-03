@@ -17,7 +17,7 @@ Prerequisites:
 
 Installation:
 1. Clone this repository:
-   git clone - https://github,com/its-rue/Selenium-Testing
+   git clone - https://github.com/its-rue/Selenium-Testing
 2. Navigate to the project directory:
    Selenium -> src -> Introduction
 3. Install dependencies (using Maven):
