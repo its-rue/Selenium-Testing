@@ -6,6 +6,9 @@ These tests aim to ensure the functionality and behavior of the website using lo
 
 Features:
 * Tests cover key functionalities of the website, including the webelements, dropdowns, buttons, menubar, menubar options, checkbox, etc.
+* Automated test cases for User Registration, Login/Logout and Shopping Cart.
+* Using the ID, Xpath, Name, Class Name, Link Text, Partial Link Text, CSS locators.
+* Implementing a combination of Implicit and Explicit waits to improve tests reliability and efficiency.  
 * Utilizes the Page Object Model (POM) design pattern for improved maintainability and readability.
 
 Prerequisites:
